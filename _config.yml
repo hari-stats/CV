@@ -24,7 +24,7 @@ orcid: "0000-0003-2278-0637"
 google_analytics: "#"
 scopus: "#"
 google_scholar: "1mB-iA4AAAAJ&hl=en"
-#flickr: "lorenzocarnevale"
+
 
 
 # highlighter: rouge
@@ -56,8 +56,7 @@ sass:
 
 include:
   - _pages
-  - _bibliography
-
+  
 exclude:
   - README.md
   - LICENSE.md
