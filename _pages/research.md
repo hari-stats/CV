@@ -6,17 +6,12 @@ published: true
 ---
 
 ## Research
-My research interests fall in three macro-areas of computer science and engineering:
-- distributed systems
-- intelligent and autonomous systems
-- algorithms and optimization
+My research interests fall in three macro-areas of Computaional Biology and Bioinformatics:
+- Infectious Disease Modelling
+- Vector Borne Diseases Epidemiology 
+- Biostatistics for Public Health
 
 Focuses I have interested on are:
-- Wireless Sensor Networks
-- Edge Computing
-- [Edge Intelligence]({{site.baseurl}}/research/edge-ai)
-- Federated Learning
-- Autonomous Vehicles
-- Reinforcement Learning
-- Swarm Intelligence
-- Genetic Algorithms
+- Forecasting Diseases burden using Climate Change drivers
+- Application of Machine Learning tools for Public Health problems
+- Baysian modeling 
