@@ -6,7 +6,7 @@ published: true
 ---
 
 #### Awards
-0. Second Prize for Turbo talk Oral presentation - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*Vector Borne Diseases:
+0. Second Prize for Turbo talk Oral presentation -[iSOVECon 2023](http://www.soveindia.org/downloads/First_Circular_iSOVE_Final_2.pdf) "*Vector Borne Diseases:
 Galvanizing & harmonizing old and new tools & technologies for containment of vectors and sustained control/ elimination of VBDs*". "The Society for Vector Ecology (SOVE), India " at Indian Council of Medical Research (ICMR)- Vector Control Research Centre(VCRC), Puducherry, India.
 {: reversed="reversed"}
 
