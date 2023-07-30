@@ -8,8 +8,7 @@ published: true
 ## Journal Papers
 
 #### 2023
-0. **Hariprasad Vavilala** , Rajasekhar Mopuri , Srinivasa Rao Mutheneni . "*Assessment of relationship between Google Trend search data on clinical symptoms and cases reported during the first wave of COVID-19 outbreak in India*". medRxiv,Pages 2023.06. 08.23291183 ,Publisher:Cold Spring Harbor Laboratory Press (doi: [10.1101/2023.06.08.23291183]([https://doi.org/10.1101/2023.06.08.23291183])
-
+0. **Hariprasad Vavilala** , Rajasekhar Mopuri , Srinivasa Rao Mutheneni . "*Assessment of relationship between Google Trend search data on clinical symptoms and cases reported during the first wave of COVID-19 outbreak in India*". medRxiv,Pages 2023.06. 08.23291183 ,Publisher:Cold Spring Harbor Laboratory Press (doi: [10.1101/2023.06.08.23291183]
 0. Nikhila Yaladanda,Rajasekhar Mopuri, **Hariprasad Vavilala** ,Kantha Rao Bhimala ,Krushna Chandra Gouda ,Madhusudhan Rao Kadiri ,Suryanarayana Murty Upadhyayula ,Srinivasa Rao Mutheneni. "*The synergistic effect of climatic factors on malaria transmission: a predictive approach for northeastern states of India*". Environmental Science and Pollution Research ,Volume-30,Issue 21,Pages
 59194-59211 ,Publisher: Springer Berlin Heidelberg (doi: [10.1007/s11356-023-26672-4]([http://dx.doi.org/10.1007/s11356-023-26672-4])
 
