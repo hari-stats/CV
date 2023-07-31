@@ -3,12 +3,11 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: Profile-1.jpg
+  image: Profile-2.heic
 published: true
 ---
 
 #### Research Agenda
-As enhanced devices at the edge of the network exploit artificial intelligence, even novel computing challenges are raised. In my current research agenda, I investigate all aspects related to distributed intelligent systems for supporting cities and communities, with a strong focus on optimizing decentralized and self-organized infrastructures. My research finds application in several domains, among which smart city, mobility, healthcare, and cultural heritage.
-
+Exploring AI techniques to identify disease hotspots and understand transmission patterns. Unveiling socioeconomic risk factors associated with Vector Borne Diseases spread by integrating Geospatial modelling approaches.construction of AI models that use current disease cases  and climatic data to forecast regional disease outbreaks.
 #### Short Biography
 I am a Senior Research Fellow in the <a href="https://www.iict.res.in/">CSIR-INDIAN INSTITUTE OF CHEMICAL TECHNOLOGY</a> at the Department of Applied Biology.
