@@ -3,26 +3,17 @@ title: Hariprasad Vavilala
 description: Senior Research Fellow at CSIR- IICT
 
 baseurl: "" #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://hariprasadv.netlify.app/" #custom url to be used instead of GitHub repository
 email: hari.693@csiriict.in
 
 highlighter: rouge
 markdown: kramdown
 
-# Pagination
-# paginate: 4
-# permalink: /blog/:year/:title/
-# paginate_path: /blog/page:num/
-
 # Social media links in footer
-# facebook: "#"
-# twitter: "#"
 linkedin: "hariprasad-vavilala"
 github: "hari-stats"
 researchgate: "Hariprasad-Vavilala"
 orcid: "0000-0003-2278-0637"
-google_analytics: "#"
-scopus: "#"
 google_scholar: "1mB-iA4AAAAJ&hl=en"
 
 
