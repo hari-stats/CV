@@ -2,7 +2,7 @@
 title:
 layout: default
 permalink: /publications/
-published: true
+published: true 
 ---
 
 ## Journal Papers
