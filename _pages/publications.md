@@ -10,7 +10,7 @@ published: true
 0. Goswami, Abhinab, Syed Nazrin Ruhina Rahman, Srikanth Ponneganti, Vijayakumar Gangipangi, *Hariprasad Vavilala*, Pullapanthula Radhakrishnanand, Sudhagar Selvaraju, Srinivasa Rao Mutheneni, Shreekant Bharti, and Tamilvanan Shunmugaperumal. 2024. “Intratympanic Injections of Emulsion-like Dispersions to Augment Cinnarizine Amount in a Healthy Rabbit Inner Ear Model.” Nanomedicine 19 (21–22): 1717–41. (doi:[10.1080/17435889.2024.2373042](https://www.tandfonline.com/doi/full/10.1080/17435889.2024.2373042))
 
 #### 2023
-0.Shraddha Jangili , **Hariprasad Vavilala**,Gopi Sumanth Bhaskar Boddeda ,Suryanaryana Murty Upadhyayula , 
+0. Shraddha Jangili , **Hariprasad Vavilala**,Gopi Sumanth Bhaskar Boddeda ,Suryanaryana Murty Upadhyayula , 
 Ramu Adela,Srinivasa Rao Mutheneni. "*Machine learning-driven early biomarker prediction for type 2 diabetes mellitus associated coronary artery diseases*".Clinical Epidemiology and Global Health, Volume-24, 101433 ,Publisher:Elsevier B.V. (doi: [10.1016/j.cegh.2023.101433]((https://www.sciencedirect.com/science/article/pii/S2213398423002208))
 0.  **Hariprasad Vavilala** , Rajasekhar Mopuri , Srinivasa Rao Mutheneni . "*Assessment of relationship between Google Trend search data on clinical symptoms and cases reported during the first wave of COVID-19 outbreak in India*". medRxiv,Pages 2023.06. 08.23291183 ,Publisher:Cold Spring Harbor Laboratory Press (doi: [10.1101/2023.06.08.23291183](https://www.medrxiv.org/content/10.1101/2023.06.08.23291183v1))
    
