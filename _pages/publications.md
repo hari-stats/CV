@@ -11,7 +11,7 @@ published: true
 
 #### 2023
 0. Shraddha Jangili , **Hariprasad Vavilala**,Gopi Sumanth Bhaskar Boddeda ,Suryanaryana Murty Upadhyayula , 
-Ramu Adela,Srinivasa Rao Mutheneni. "*Machine learning-driven early biomarker prediction for type 2 diabetes mellitus associated coronary artery diseases*".Clinical Epidemiology and Global Health, Volume-24, 101433 ,Publisher:Elsevier B.V. (doi: [10.1016/j.cegh.2023.101433]((https://www.sciencedirect.com/science/article/pii/S2213398423002208))
+Ramu Adela,Srinivasa Rao Mutheneni. "*Machine learning-driven early biomarker prediction for type 2 diabetes mellitus associated coronary artery diseases*".Clinical Epidemiology and Global Health, Volume-24, 101433 ,Publisher:Elsevier B.V. (doi: [10.1016/j.cegh.2023.101433](https://www.sciencedirect.com/science/article/pii/S2213398423002208))
 0.  **Hariprasad Vavilala** , Rajasekhar Mopuri , Srinivasa Rao Mutheneni . "*Assessment of relationship between Google Trend search data on clinical symptoms and cases reported during the first wave of COVID-19 outbreak in India*". medRxiv,Pages 2023.06. 08.23291183 ,Publisher:Cold Spring Harbor Laboratory Press (doi: [10.1101/2023.06.08.23291183](https://www.medrxiv.org/content/10.1101/2023.06.08.23291183v1))
    
 0. Nikhila Yaladanda,Rajasekhar Mopuri, **Hariprasad Vavilala** ,Kantha Rao Bhimala ,Krushna Chandra Gouda ,Madhusudhan Rao Kadiri ,Suryanarayana Murty Upadhyayula ,Srinivasa Rao Mutheneni. "*The synergistic effect of climatic factors on malaria transmission: a predictive approach for northeastern states of India*". Environmental Science and Pollution Research ,Volume-30,Issue 21,Pages
