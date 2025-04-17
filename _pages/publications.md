@@ -12,6 +12,7 @@ published: true
 #### 2023
 0. Shraddha Jangili , **Hariprasad Vavilala**,Gopi Sumanth Bhaskar Boddeda ,Suryanaryana Murty Upadhyayula , 
 Ramu Adela,Srinivasa Rao Mutheneni. "*Machine learning-driven early biomarker prediction for type 2 diabetes mellitus associated coronary artery diseases*".Clinical Epidemiology and Global Health, Volume-24, 101433 ,Publisher:Elsevier B.V. (doi: [10.1016/j.cegh.2023.101433](https://www.sciencedirect.com/science/article/pii/S2213398423002208))
+
 0.  **Hariprasad Vavilala** , Rajasekhar Mopuri , Srinivasa Rao Mutheneni . "*Assessment of relationship between Google Trend search data on clinical symptoms and cases reported during the first wave of COVID-19 outbreak in India*". medRxiv,Pages 2023.06. 08.23291183 ,Publisher:Cold Spring Harbor Laboratory Press (doi: [10.1101/2023.06.08.23291183](https://www.medrxiv.org/content/10.1101/2023.06.08.23291183v1))
    
 0. Nikhila Yaladanda,Rajasekhar Mopuri, **Hariprasad Vavilala** ,Kantha Rao Bhimala ,Krushna Chandra Gouda ,Madhusudhan Rao Kadiri ,Suryanarayana Murty Upadhyayula ,Srinivasa Rao Mutheneni. "*The synergistic effect of climatic factors on malaria transmission: a predictive approach for northeastern states of India*". Environmental Science and Pollution Research ,Volume-30,Issue 21,Pages
@@ -20,7 +21,6 @@ Ramu Adela,Srinivasa Rao Mutheneni. "*Machine learning-driven early biomarker pr
 0. Satya Ganesh Kakarla ,Phani Krishna Kondeti ,**Hariprasad Vavilala** ,Gopi Sumanth Bhaskar Boddeda ,Rajasekhar Mopuri ,Sriram Kumaraswamy ,Madhusudhan Rao Kadiri ,Srinivasa Rao Mutheneni. "*Weather integrated multiple machine learning models for prediction of dengue prevalence in India*". International Journal of Biometeorology ,Volume-67,Issue - 2 ,Pages 285-297 ,Publisher:
 Springer Berlin Heidelberg (doi: [10.1007/s00484-022-02405-z](https://link.springer.com/article/10.1007/s00484-022-02405-z))
 {: reversed="reversed"}
-
 
 #### 2022
 0. **Hariprasad Vavilala**, Nikhila Yaladanda, Phani Krishna Kondeti, Rafiq Unissa, Rajasekhar Mopuri, Krushna Chandra Gouda, Kantha Rao Bhimala, Madhusudhan Rao Kadiri, Suryanaryana Murty Upadhyayula, Srinivasa Rao Mutheneni. "*Weather integrated malaria prediction system using Bayesian structural time series model for northeast states of India*". Environmental Science and Pollution Research,Volume:
