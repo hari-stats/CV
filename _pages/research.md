@@ -14,4 +14,4 @@ My research interests fall in three macro-areas of Computaional Biology and Bioi
 Focuses I have interested on are:
 - Forecasting Diseases burden using Climate Change drivers
 - Application of Machine Learning tools for Public Health problems
-- Baysian modeling 
+- Bayesian modeling 
