@@ -11,7 +11,7 @@ Galvanizing & harmonizing old and new tools & technologies for containment of ve
 
 
 0. Senior Research Fellowship by Indian Council of Medical Research(ICMR), Govt. of India
-   {: reversed="reversed"}.
+   {: reversed="reversed"}
 
 #### Conference and Workshops 
 0. [iSOVECon 2023](http://www.soveindia.org/downloads/First_Circular_iSOVE_Final_2.pdf) - "<i>THE SECOND INTERNATIONAL CONFERENCE of The Society for Vector Ecology (SOVE), India</i>",13th to 16th March 2023 at ICMR-VCRC, Puducherry, India
