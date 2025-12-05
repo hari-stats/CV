@@ -6,6 +6,9 @@ published: true
 ---
 
 ## Journal Papers
+#### 2025
+0. Goswami, Abhinab, Srikanth Ponneganti, Vijayakumar Gangipangi, *Hariprasad Vavilala*, Pullapanthula Radhakrishnanand, Sudhagar Selvaraju, Srinivasa Rao Mutheneni, Shreekant Bharti, and Tamilvanan Shunmugaperumal. 2025. “Intratympanic Injection of Emulsion-like Dispersions to Co-Deliver Cinnarizine and Morin Hydrate-Lipoid E80 Complex in a Rabbit Inner Ear Model.” Therapeutic Delivery 16 (8): 713–32.(doi: [10.1080/20415990.2025.2516411](https://www.tandfonline.com/doi/abs/10.1080/20415990.2025.2516411))
+   
 #### 2024
 0. Goswami, Abhinab, Syed Nazrin Ruhina Rahman, Srikanth Ponneganti, Vijayakumar Gangipangi, *Hariprasad Vavilala*, Pullapanthula Radhakrishnanand, Sudhagar Selvaraju, Srinivasa Rao Mutheneni, Shreekant Bharti, and Tamilvanan Shunmugaperumal. 2024. “Intratympanic Injections of Emulsion-like Dispersions to Augment Cinnarizine Amount in a Healthy Rabbit Inner Ear Model.” Nanomedicine 19 (21–22): 1717–41. (doi:[10.1080/17435889.2024.2373042](https://www.tandfonline.com/doi/full/10.1080/17435889.2024.2373042))
 
